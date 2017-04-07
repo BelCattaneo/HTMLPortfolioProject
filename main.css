@@ -1,0 +1,38 @@
+h1 {
+    color: #F78181;
+    padding: 20px 6px 0 6px;
+    margin: auto auto 0 auto;
+    text-align: center;
+    font-family: calibri;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #F6CECE;
+    text-align: center;
+    font-size: 50px;
+    padding: 0 6px 0 6px;
+    margin: 0 auto 0 auto;
+}
+
+h3 {
+    color: #F5A9BC;
+    font-size: 30px;
+    margin-bottom: 5px;
+    margin-left: 20px
+}
+
+p {
+    font-size: 20px;
+    margin-top: 0; 
+    margin-left: 30px;
+}
+
+body {
+    font-family: Calibri, 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    background-color: ;
+    background-image: url(images/abstractlines.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+}
